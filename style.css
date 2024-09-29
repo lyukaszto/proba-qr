@@ -1,0 +1,20 @@
+
+
+h1{
+    font-family: arial;
+    color: green;
+}
+
+hr{
+    background-color: blue;
+}
+
+pre{
+    color: aqua;
+}
+#google{
+    padding: 10px;
+}
+#lyrics{
+    font-style: italic;
+}
